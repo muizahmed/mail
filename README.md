@@ -22,6 +22,12 @@ The backend functionality and API was provided by distribution code from [CS50W'
 2. Run `python manage.py runserver`
 3. Interact with the email client in the browser.
 
+Alternatively, you can also check out the app live in action on [Heroku](https://mail-d93be421367e.herokuapp.com/).
+
+## Live Website
+[Herkou](https://mail-d93be421367e.herokuapp.com/)
+Use Email:`baz@example.com` and Password:`testing` for testing purposes.
+
 ## Credits
 
 - CS50W OpenWare: [mail.zip](https://cdn.cs50.net/web/2020/spring/projects/3/mail.zip)
