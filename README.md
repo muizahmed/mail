@@ -2,7 +2,7 @@
 
 Frontend implementation for a single-page email client using JavaScript, HTML, and CSS.
 
-The backend functionality was provided by [CS50W](https://cdn.cs50.net/web/2020/spring/projects/3/mail.zip). This repo only includes modifications in `inbox.js`.
+The backend functionality and API was provided by distribution code from [CS50W's Mail Project](https://cdn.cs50.net/web/2020/spring/projects/3/mail.zip). Modifications were made only in `inbox.js`.
 
 ## Features
 
