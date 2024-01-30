@@ -19,8 +19,8 @@ The backend functionality and API was provided by distribution code from [CS50W'
 ## Usage
 
 1. Clone the repository: `git clone https://github.com/your-username/mail-project.git`
-2. Run 
-3. Interact with the email client.
+2. Run `python manage.py runserver`
+3. Interact with the email client in the browser.
 
 ## Credits
 
