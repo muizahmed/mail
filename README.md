@@ -19,13 +19,9 @@ The backend functionality and API was provided by distribution code from [CS50W'
 ## Usage
 
 1. Clone the repository: `git clone https://github.com/your-username/mail-project.git`
-2. Open `index.html` in a web browser.
+2. Run 
 3. Interact with the email client.
 
 ## Credits
 
 - CS50W OpenWare: [mail.zip](https://cdn.cs50.net/web/2020/spring/projects/3/mail.zip)
-
-## License
-
-MIT License - see [LICENSE](LICENSE).
